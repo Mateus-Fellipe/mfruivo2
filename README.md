@@ -29,10 +29,10 @@
 - Gosto de trabalhar em equipe e geralmente me coloco em um papel de liderança
 - Vou postar meus códigos e estudos aqui para ajudar quem esta iniciando na carreira
 
-<hr>
-<h3>
+<br>
+<h4>
   Para saber um pouco mais sobre mim e conhecer minha trajetória profissional da uma olhada nos links aqui em baixo
-</h3>
+</h4>
 
 - [**Linkedin**](https://www.linkedin.com/in/mateus-felipe-dos-santos-476204198/)
 - [**Instagran**](https://www.instagram.com/mateus_fellipe/)
