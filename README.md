@@ -1,7 +1,3 @@
-<h1>
-  Um pouco sobre mim
-</h1>
-
 <h2 align="center">
   E aí, eu sou o Mateus Felipe!
 </h2>
@@ -13,6 +9,29 @@
 
 <hr>
 
-<h3>
-  Minha formação
-</h3>
+<h2>
+  Linguagens que uso e estudo
+</h2>
+
+- Python
+- Java 
+- C
+- HTML
+- CSS
+- Javascript
+
+<h2>
+  Algumas curiosidades sobre mim
+</h2>
+- Eu sou apaixonado para por esportes, principalmente por vôlei e futebol
+- Cozinhar é meu hobbie favorito, sempre que da estou na cozinha inventando algo novo
+- Gosto de trabalhar em equipe e geralmente me coloco em um papel de liderança
+- Vou postar meus códigos e estudos aqui para ajudar quem esta iniciando na carreira
+
+<h2>
+  Para saber um pouco mais sobre mim e conhecer minha trajetória profissional da uma olhada nos links aqui em baixo
+</h2>
+
+<h2>
+  Valeu família, vamos com tudo
+</h2>
