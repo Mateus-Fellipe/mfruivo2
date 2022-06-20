@@ -23,14 +23,13 @@
 <h2>
   Algumas curiosidades sobre mim
 </h2>
-* Eu sou apaixonado para por esportes, principalmente por vôlei e futebol
-* Cozinhar é meu hobbie favorito, sempre que da estou na cozinha inventando algo novo
-* Gosto de trabalhar em equipe e geralmente me coloco em um papel de liderança
-* Vou postar meus códigos e estudos aqui para ajudar quem esta iniciando na carreira
 
-<h2>
-  Para saber um pouco mais sobre mim e conhecer minha trajetória profissional da uma olhada nos links aqui em baixo
-</h2>
+- Eu sou apaixonado para por esportes, principalmente por vôlei e futebol
+- Cozinhar é meu hobbie favorito, sempre que da estou na cozinha inventando algo novo
+- Gosto de trabalhar em equipe e geralmente me coloco em um papel de liderança
+- Vou postar meus códigos e estudos aqui para ajudar quem esta iniciando na carreira
+
+>Para saber um pouco mais sobre mim e conhecer minha trajetória profissional da uma olhada nos links aqui em baixo
 
 <h2>
   Valeu família, vamos com tudo
